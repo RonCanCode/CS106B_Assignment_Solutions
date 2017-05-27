@@ -3,7 +3,6 @@
  * -------------------
  *
  * Name:  Ron Guglielmone
- * Section:  Marielos Sanson
  *
  * This file implements the constructor and destructor for
  * the Statement class itself.
