@@ -2,10 +2,9 @@
  * File: ListCompletions.cpp
  * -------------------------
  * Name: Ron Guglielmone
- * Section: [TODO: enter section leader here]
- * This file is the starter project for the cell phone mind-reading problem
- * from Assignment #3
- * [TODO: extend the documentation]
+ *
+ * Lists all the words in the lexicon that begin with the letters
+ * corresponding to the specified digits on a telephone keypad.
  */
 
 #include <iostream>
