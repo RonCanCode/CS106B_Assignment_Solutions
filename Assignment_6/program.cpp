@@ -3,7 +3,6 @@
  * -----------------
  *
  * Name:  Ron Guglielmone
- * Section:  Marielos Sanson
  *
  * This is an implementation of the program.h interface.
  * It uses a linked-list, a hashMap and some structures
