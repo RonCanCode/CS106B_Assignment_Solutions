@@ -2,7 +2,6 @@
  * File: pqueue.h (heap version)
  * -----------------------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This file exports the PriorityQueue class, a collection in which
  * values are processed in priority order.  The public section of the
