@@ -3,7 +3,6 @@
  * ----------------
  *
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * Implements the parser.h interface.
  */
