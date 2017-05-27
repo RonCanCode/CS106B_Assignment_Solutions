@@ -2,7 +2,6 @@
  * File: ConsecutiveHeads.cpp
  * --------------------------
  * Name: Ron Guglilemone
- * Section: Marielos Sanson
  *
  * This program simulates flipping a coin and terminates
  * when either heads or tails has been the result three
