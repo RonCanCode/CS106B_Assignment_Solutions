@@ -3,7 +3,6 @@
  * -----------
  *
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This interface defines a class hierarchy for expressions,
  * which allows the client to represent and manipulate simple
