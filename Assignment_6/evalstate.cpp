@@ -3,7 +3,6 @@
  * -------------------
  *
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This file implements the EvalState class, which defines a symbol
  * table for keeping track of the value of identifiers.  The public
