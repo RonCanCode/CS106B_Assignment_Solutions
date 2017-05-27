@@ -2,7 +2,6 @@
  * File: pqueue.cpp (array version)
  * --------------------------------
  * Name: Ron Guglilemone
- * Section: Marielos Sanson
  *
  * This file implements the pqueue.h interface using a dynamic array as
  * the underlying representation.
