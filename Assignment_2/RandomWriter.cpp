@@ -2,7 +2,6 @@
  * File: RandomWriter.cpp
  * ----------------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This program takes in an initial source text
  * and statistically analises it.  The text is
