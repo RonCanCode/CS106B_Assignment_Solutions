@@ -1,11 +1,11 @@
 /*
  * File: StockCutting.cpp
  * ----------------------
- * Name: [TODO: enter name here]
- * Section: [TODO: enter section leader here]
- * This file is the starter code for the stock-cutting problem
- * fron Assignment #3.
- * [TODO: extend the documentation]
+ * 
+ * Computes the minimum number of stock pipes required to satisfy
+ * the vector of requests of individual pieces.
+ *
+ * Not sure if I ever got this working...
  */
 
 #include <iostream>
