@@ -2,7 +2,7 @@
  * File: Combinations.cpp
  * ----------------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
+ * 
  * This program reads in two values from the user for use
  * in a Pascal's Trangle Combinations Function.  The value
  * at position C(n,k) is calculated recursively.
