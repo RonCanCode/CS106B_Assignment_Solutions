@@ -2,14 +2,8 @@
  * File: Warmup.cpp
  * ----------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This program generates a hash code based on user's name.
- * As given, this code has two compiler errors you need to track down 
- * and fix in order to get the program up and running.
- * [Originally written by Julie Zelenski]
- *
- * Fixed two errors: January 10, 2015.
  */
 
 #include "simpio.h"  //Needed the Stanford simpio.h library to impliment getLine @ 32.
