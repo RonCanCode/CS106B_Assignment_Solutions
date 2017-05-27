@@ -2,7 +2,6 @@
  * File: CountFifteens.cpp
  * -----------------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This program takes in a set of five cards
  * (as defined by the Cards class), and prints
