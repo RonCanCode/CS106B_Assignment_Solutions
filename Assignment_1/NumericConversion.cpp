@@ -2,7 +2,6 @@
  * File: NumericConversion.cpp
  * ---------------------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This program implements a conversion from type string to int
  * and from type int to string without using library calls or loops.
