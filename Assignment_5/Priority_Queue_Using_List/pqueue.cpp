@@ -2,7 +2,6 @@
  * File: pqueue.cpp (linked-list version)
  * --------------------------------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * 3/5/15: Fixed bugs.  Seems to be working well, now.
  *
