@@ -3,7 +3,6 @@
  * -------------
  *
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This file implements the Expression class and its subclasses.
  */
