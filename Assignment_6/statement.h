@@ -3,7 +3,6 @@
  * -----------------
  *
  * Name:  Ron Guglielmone
- * Section:  Marielos Sanson
  *
  * This file defines the Statement abstract type.  
  * There are subclasses for each of the seven types.
