@@ -3,7 +3,6 @@
  * -----------------
  *
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This interface exports a class called EvalState, which keeps track
  * of additional information required by the evaluator, most notably
