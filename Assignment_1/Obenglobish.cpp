@@ -2,7 +2,6 @@
  * File: Obenglobish.java
  * ----------------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This file solves the Oblenglobish problem outlines in CS106b
  * Assignment #1, Winter Quarter, 2015 at Stanford Univertsity.
