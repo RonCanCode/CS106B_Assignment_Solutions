@@ -2,7 +2,6 @@
  * File: pqueue.cpp (heap version)
  * -------------------------------
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * 3/5/15:  Still haven't managed to fix this...
  * Definitely tried...  :/
