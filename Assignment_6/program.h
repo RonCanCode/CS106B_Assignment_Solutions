@@ -3,7 +3,6 @@
  * ---------------
  *
  * Name: Ron Guglielmone
- * Section: Marielos Sanson
  *
  * This interface exports a Program class for storing a BASIC
  * program.
