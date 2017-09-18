@@ -14,9 +14,6 @@
 #include "simpio.h"
 using namespace std;
 
-/* Prototypes: */
-string flipCoin();
-
 /* Globals: */
 int switchStrategy = 0;
 int stayStrategy = 0;
